@@ -45,5 +45,6 @@ Looking to collaborate on a Java project or discussing an internship opportunity
 
 - **LinkedIn:** (linkedin.com/in/ritik-chauhan-8b8b303a1)
 - **Email:** ritik.chauhan9977@gmail.com
-- **Portfolio/Resume:** [Link to your resume]
+<- **Portfolio/Resume:** [Link to your resume]>
+
 Author : Ritik Chauhan
