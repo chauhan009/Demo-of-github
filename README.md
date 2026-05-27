@@ -43,7 +43,7 @@ Currently, I am actively seeking **Java Development Internships** to apply my ac
 ### 📫 Let's Connect!
 Looking to collaborate on a Java project or discussing an internship opportunity? I'd love to chat.
 
-- **LinkedIn:** (linkedin.com/in/ritik-chauhan-8b8b303a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-chauhan-8b8b303a1/)
 - **Email:** ritik.chauhan9977@gmail.com
 
 
